@@ -1,2 +1,2 @@
-# Abelone
+# Abalone
 LM Group study assignment
